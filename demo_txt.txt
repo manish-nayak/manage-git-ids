@@ -1,1 +1,1 @@
-First commit to see how fork has configured my git repository during cloning.
+Second commit to see how fork has configured my git repository during cloning.
